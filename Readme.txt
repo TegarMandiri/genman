@@ -4,7 +4,7 @@
 
 //Random Name Generator
 //Credit Tegar Mandiri 2019
-//Ver. 1.00
+//Ver. 1.25
 //Need to compile before run this program.
 //How to use  : -Download genman.java file
                 -Compile the program, if using Windows can use Command Prompt (Javac) or Eclipse, or any software supported for 
